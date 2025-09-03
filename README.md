@@ -67,8 +67,13 @@ Figure 2: Running Subdomain Enumeration with Progress Bar & Discovered Subdomain
 Figure 4: Exported Results File Confirmation
 
   ![DNS-Subdomenum](DNS-Subdomenum/disres1.png)
+  
+
+License
+
+This project is for educational and research purposes only.
 
 
-  License
+Author
 
-This project is licensed under the MIT License – you are free to use, modify, and distribute it.
+Developed by Michael Aryee as part of a cybersecurity internship project at Inlighn Tech.
