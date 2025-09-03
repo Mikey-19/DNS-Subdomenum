@@ -60,13 +60,19 @@ By combining enumeration with a modern GUI and progress tracking, it is highly u
 Screenshots
 
 Figure 1: Main Interface (Dark Mode)
-
+![DNS-Subdomenum](DNS-Subdomenum/Subdomain%20Enumeration%20Tool.png)
  
 Figure 2: Running Subdomain Enumeration with Progress Bar & Discovered Subdomains and DNS Records 
 
 
+ ![DNS-Subdomenum](DNS-Subdomenum/dark%20m%20dns.png)
  
 
 Figure 4: Exported Results File Confirmation
 
- 
+  ![DNS-Subdomenum](DNS-Subdomenum/disres1.png)
+
+
+  License
+
+This project is licensed under the MIT License – you are free to use, modify, and distribute it.
