@@ -49,14 +49,24 @@ The tool produces a table with the following columns:
 - **Working URL**: The accessible URL (http/https).
 
 Additionally, the results can be saved into a text file using the 'Save Results' button.
+
 Conclusion
-This tool provides a simple yet powerful approach to discovering hidden subdomains and analyzing their DNS records. By combining enumeration with a modern GUI and progress tracking, it is highly useful for security assessments and academic research projects.
+
+This tool provides a simple yet powerful approach to discovering hidden subdomains and analyzing their DNS records. 
+By combining enumeration with a modern GUI and progress tracking, it is highly useful for security assessments and academic research projects.
+
+
+
 Screenshots
+
 Figure 1: Main Interface (Dark Mode)
+
  
 Figure 2: Running Subdomain Enumeration with Progress Bar & Discovered Subdomains and DNS Records 
+
 
  
 
 Figure 4: Exported Results File Confirmation
+
  
